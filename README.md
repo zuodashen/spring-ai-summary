@@ -8,6 +8,7 @@
 
 **Spring AI Summary** 是基于原生 **Spring AI** 框架的模块化示例工程集合，通过清晰的代码示例和详细文档，帮助开发者快速掌握 Spring AI 的核心功能。
 
+##本项目 Fork 自： https://github.com/java-ai-tech/spring-ai-summary
 ### 👥 适合人群
 Spring AI Summary 面向对 Spring AI 框架感兴趣的开发者，无论是初学者还是有经验的工程师，都可以通过本项目快速了解框架的核心功能，并将其应用到实际项目中。 通过 Spring AI Summary，你可以：
 
